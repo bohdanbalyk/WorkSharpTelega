@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Telegram.Bot" Version="14.6.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\WorkSharp.Bot\WorkSharp.Bot.csproj" />
+    <ProjectReference Include="..\WorkSharp.Bot.Implementation\WorkSharp.Bot.Implementation.csproj" />
+    <ProjectReference Include="..\WorkSharp.Bot.Models\WorkSharp.Bot.Models.csproj" />
+    <ProjectReference Include="..\WorkSharp.Sender.Enum\WorkSharp.Enums.Bot.csproj" />
+  </ItemGroup>
+
+</Project>

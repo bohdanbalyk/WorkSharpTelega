@@ -1,0 +1,9 @@
+C:\Users\Gerron\source\repos\WorkSharp.Sender.Enum\bin\Debug\netcoreapp2.0\WorkSharp.Enums.Bot.deps.json
+C:\Users\Gerron\source\repos\WorkSharp.Sender.Enum\bin\Debug\netcoreapp2.0\WorkSharp.Enums.Bot.dll
+C:\Users\Gerron\source\repos\WorkSharp.Sender.Enum\obj\Debug\netcoreapp2.0\WorkSharp.Enums.Bot.csproj.CoreCompileInputs.cache
+C:\Users\Gerron\source\repos\WorkSharp.Sender.Enum\obj\Debug\netcoreapp2.0\WorkSharp.Enums.Bot.AssemblyInfoInputs.cache
+C:\Users\Gerron\source\repos\WorkSharp.Sender.Enum\obj\Debug\netcoreapp2.0\WorkSharp.Enums.Bot.AssemblyInfo.cs
+C:\Users\Gerron\source\repos\WorkSharp.Sender.Enum\bin\Debug\netcoreapp2.0\WorkSharp.Enums.Bot.pdb
+C:\Users\Gerron\source\repos\WorkSharp.Sender.Enum\obj\Debug\netcoreapp2.0\WorkSharp.Enums.Bot.dll
+C:\Users\Gerron\source\repos\WorkSharp.Sender.Enum\obj\Debug\netcoreapp2.0\WorkSharp.Enums.Bot.pdb
+C:\Users\Gerron\source\repos\WorkSharp.Sender.Enum\obj\Debug\netcoreapp2.0\WorkSharp.Enums.Bot.csprojAssemblyReference.cache

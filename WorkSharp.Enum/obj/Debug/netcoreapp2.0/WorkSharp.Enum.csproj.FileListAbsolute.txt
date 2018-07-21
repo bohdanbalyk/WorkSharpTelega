@@ -1,0 +1,9 @@
+C:\Users\Gerron\source\repos\WorkSharp.Enum\bin\Debug\netcoreapp2.0\WorkSharp.Enum.deps.json
+C:\Users\Gerron\source\repos\WorkSharp.Enum\bin\Debug\netcoreapp2.0\WorkSharp.Enum.dll
+C:\Users\Gerron\source\repos\WorkSharp.Enum\bin\Debug\netcoreapp2.0\WorkSharp.Enum.pdb
+C:\Users\Gerron\source\repos\WorkSharp.Enum\obj\Debug\netcoreapp2.0\WorkSharp.Enum.csprojAssemblyReference.cache
+C:\Users\Gerron\source\repos\WorkSharp.Enum\obj\Debug\netcoreapp2.0\WorkSharp.Enum.csproj.CoreCompileInputs.cache
+C:\Users\Gerron\source\repos\WorkSharp.Enum\obj\Debug\netcoreapp2.0\WorkSharp.Enum.AssemblyInfoInputs.cache
+C:\Users\Gerron\source\repos\WorkSharp.Enum\obj\Debug\netcoreapp2.0\WorkSharp.Enum.AssemblyInfo.cs
+C:\Users\Gerron\source\repos\WorkSharp.Enum\obj\Debug\netcoreapp2.0\WorkSharp.Enum.dll
+C:\Users\Gerron\source\repos\WorkSharp.Enum\obj\Debug\netcoreapp2.0\WorkSharp.Enum.pdb

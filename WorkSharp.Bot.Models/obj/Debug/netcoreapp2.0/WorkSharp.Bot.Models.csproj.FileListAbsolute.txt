@@ -1,0 +1,12 @@
+C:\Users\Gerron\source\repos\WorkSharp.Bot.Models\bin\Debug\netcoreapp2.0\WorkSharp.Enums.Bot.dll
+C:\Users\Gerron\source\repos\WorkSharp.Bot.Models\obj\Debug\netcoreapp2.0\WorkSharp.Bot.Models.csprojAssemblyReference.cache
+C:\Users\Gerron\source\repos\WorkSharp.Bot.Models\obj\Debug\netcoreapp2.0\WorkSharp.Bot.Models.csproj.CoreCompileInputs.cache
+C:\Users\Gerron\source\repos\WorkSharp.Bot.Models\obj\Debug\netcoreapp2.0\WorkSharp.Bot.Models.AssemblyInfoInputs.cache
+C:\Users\Gerron\source\repos\WorkSharp.Bot.Models\obj\Debug\netcoreapp2.0\WorkSharp.Bot.Models.AssemblyInfo.cs
+C:\Users\Gerron\source\repos\WorkSharp.Bot.Models\bin\Debug\netcoreapp2.0\WorkSharp.Bot.Models.deps.json
+C:\Users\Gerron\source\repos\WorkSharp.Bot.Models\bin\Debug\netcoreapp2.0\WorkSharp.Bot.Models.dll
+C:\Users\Gerron\source\repos\WorkSharp.Bot.Models\bin\Debug\netcoreapp2.0\WorkSharp.Bot.Models.pdb
+C:\Users\Gerron\source\repos\WorkSharp.Bot.Models\bin\Debug\netcoreapp2.0\WorkSharp.Enums.Bot.pdb
+C:\Users\Gerron\source\repos\WorkSharp.Bot.Models\obj\Debug\netcoreapp2.0\WorkSharp.Bot.Models.csproj.CopyComplete
+C:\Users\Gerron\source\repos\WorkSharp.Bot.Models\obj\Debug\netcoreapp2.0\WorkSharp.Bot.Models.dll
+C:\Users\Gerron\source\repos\WorkSharp.Bot.Models\obj\Debug\netcoreapp2.0\WorkSharp.Bot.Models.pdb

@@ -1,0 +1,9 @@
+C:\Users\Gerron\source\repos\WorkSharp.Configuration\bin\Debug\netcoreapp2.0\WorkSharp.Configuration.deps.json
+C:\Users\Gerron\source\repos\WorkSharp.Configuration\bin\Debug\netcoreapp2.0\WorkSharp.Configuration.dll
+C:\Users\Gerron\source\repos\WorkSharp.Configuration\bin\Debug\netcoreapp2.0\WorkSharp.Configuration.pdb
+C:\Users\Gerron\source\repos\WorkSharp.Configuration\obj\Debug\netcoreapp2.0\WorkSharp.Configuration.csproj.CoreCompileInputs.cache
+C:\Users\Gerron\source\repos\WorkSharp.Configuration\obj\Debug\netcoreapp2.0\WorkSharp.Configuration.AssemblyInfoInputs.cache
+C:\Users\Gerron\source\repos\WorkSharp.Configuration\obj\Debug\netcoreapp2.0\WorkSharp.Configuration.AssemblyInfo.cs
+C:\Users\Gerron\source\repos\WorkSharp.Configuration\obj\Debug\netcoreapp2.0\WorkSharp.Configuration.dll
+C:\Users\Gerron\source\repos\WorkSharp.Configuration\obj\Debug\netcoreapp2.0\WorkSharp.Configuration.pdb
+C:\Users\Gerron\source\repos\WorkSharp.Configuration\obj\Debug\netcoreapp2.0\WorkSharp.Configuration.csprojAssemblyReference.cache
